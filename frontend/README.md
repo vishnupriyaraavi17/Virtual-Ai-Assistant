@@ -149,7 +149,7 @@ CLOUDINARY_API_SECRET=your_api_secret
 
 # 👨‍💻 Author
 
-Developed by Priya
+Developed by Raavi Vishnupriya
 
 ---
 
