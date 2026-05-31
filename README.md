@@ -170,12 +170,6 @@ CLOUDINARY_API_SECRET=your_cloudinary_api_secret
 
 # 📸 Screenshots
 
-![SignUp screen](<Screenshot 2026-05-15 202657.png>)
-![Customize Screen](<Screenshot 2026-05-15 202635.png>)
-![Home screen](<Screenshot 2026-05-15 203330.png>)
-![Chat Screen](<Screenshot 2026-05-15 203415.png>)
-
----
 
 ## 🔮 Future Enhancements
 
